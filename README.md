@@ -1,5 +1,7 @@
 # KDAG Knowledge Quiz
 
+Hi! I'm Jatin Dhiman, currently pursuing Applied Geology at IIT Kharagpur. I have a strong passion for web development and love creating interactive websites. This quiz project combines my interest in technology with the amazing work KDAG does in data analytics. It's been a great learning experience building this with HTML, CSS, and JavaScript!
+
 A simple quiz website for KDAG (Kharagpur Data Analytics Group) made with HTML, CSS and JavaScript.
 
 ## What it does
