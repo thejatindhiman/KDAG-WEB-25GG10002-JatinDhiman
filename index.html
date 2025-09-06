@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KDAG Quiz - Test Your Knowledge</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="quiz-container">
+        <header class="quiz-header">
+            <h1>KDAG Knowledge Quiz</h1>
+            <p>Test your understanding of data analytics and KDAG concepts</p>
+        </header>
+
+        <div class="progress-container">
+            <div class="progress-text" id="progressText">Question 1 of 5</div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+        </div>
+
+        <div class="quiz-content" id="quizContent">
+            <div class="question-container active" id="currentQuestion">
+                <h3 id="questionTitle">Question 1:</h3>
+                <p id="questionText">What does KDAG stand for?</p>
+                <div class="options" id="questionOptions">
+                </div>
+            </div>
+        </div>
+
+        <div class="results-container" id="resultsContainer" style="display: none;">
+            <h2>Quiz Results</h2>
+            <div id="scoreDisplay"></div>
+            <div id="answersReview"></div>
+            <button id="retakeBtn" class="retake-btn">Retake Quiz</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
