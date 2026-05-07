@@ -29,3 +29,6 @@ A simple quiz website for KDAG (Kharagpur Data Analytics Group) made with HTML, 
 - Simple design
 
 Made for KDAG Web Team Selection Round 2.
+- Jatin Dhiman
+ 
+
